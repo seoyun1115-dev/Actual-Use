@@ -10,7 +10,7 @@ import time
 
 LENS_API_URL = "https://api.lens.org/scholarly/search"
 
-API_TOKEN = "jQnrFcskoKSSA2nJzFcqt28w8As1OXwh73THKh77O9ETNppuqBFI"
+API_TOKEN = "정서윤에게 토큰을 받으세요"
 
 HEADERS = {
     "Authorization": f"Bearer {API_TOKEN}",
